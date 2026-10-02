@@ -1,2 +1,43 @@
-# projetoCantina-2025
-Um projeto em java simulando o funcionamento de uma cantina escolar para um trabalho escolar envolvendo poo, interface grafica em java, DAO e MVC
+# Projeto Cantina 2025
+
+Sistema desenvolvido em Java para simular o funcionamento de uma cantina escolar.
+
+Projeto desenvolvido para aplicar conceitos de:
+
+Programação Orientada a Objetos (POO)
+Interface gráfica
+DAO
+MVC
+Banco de dados
+
+# Requisitos
+
+Para executar o projeto, é necessário ter:
+
+Java JDK
+Banco de dados utilizado pelo projeto
+IDE para Java
+
+# Instalação
+
+Clone o repositório:
+
+git clone https://github.com/felipeosmato/projetoCantina-2025.git
+
+Abra o projeto em sua IDE e configure o Build Path:
+
+Clique com o botão direito no projeto.
+Acesse Build Path > Configure Build Path.
+Remova o mysql-connector.
+Adicione o mysql-connector disponibilizado.
+
+configure a conexão com o banco de dados utilizando o arquivo .sql disponível no projeto.
+
+Após a configuração, execute a classe principal do projeto.
+
+# Autores
+
+Felipe de Oliveira Silva
+Vitor Scarabelli Quadros
+
+
