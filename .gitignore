@@ -1,0 +1,32 @@
+# Eclipse
+.metadata/
+.settings/
+
+# Java compilado
+*.class
+
+# Pastas de compilação
+bin/
+target/
+out/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*~
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração local
+.env
+.env.*
+
+# Backup de arquivos SQL
+*.sql.bak
+*.sql.tmp
