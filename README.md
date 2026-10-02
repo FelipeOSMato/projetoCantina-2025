@@ -16,7 +16,7 @@ Para executar o projeto, é necessário ter:
 
 Java JDK
 Banco de dados utilizado pelo projeto
-IDE para Java
+Eclipse IDE
 
 # Instalação
 
@@ -24,7 +24,7 @@ Clone o repositório:
 
 git clone https://github.com/felipeosmato/projetoCantina-2025.git
 
-Abra o projeto em sua IDE e configure o Build Path:
+Abra o projeto no Eclipse e configure o Build Path:
 
 Clique com o botão direito no projeto.
 Acesse Build Path > Configure Build Path.
