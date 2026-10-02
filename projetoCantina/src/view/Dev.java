@@ -15,7 +15,7 @@ public class Dev extends JDialog {
 	ImageIcon imagemVitor = new ImageIcon("assets/imgvitor.jpg");
 	
 	public Dev() {
-		setSize(600, 400);
+		setSize(620, 450);
 		setTitle("Desenvolvedores");
 		setResizable(false);
 		setLayout(null);
